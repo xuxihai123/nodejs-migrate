@@ -1,8 +1,18 @@
 ### migrate database tool
 
+install
+
+```sh
+npm install nodejs-migrate
+#or
+yarn add nodejs-migrate
+```
+
 usage
 
 ```sh
+$ npx migratejs -h
+
 Usage: migratejs [options] [command]
 
 Options:
