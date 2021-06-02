@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-migrate",
+  "version": "1.0.0",
+  "description": "A database migration framework in Node",
+  "main": "lib/index.js",
+  "bin": {
+    "migratejs": "bin/migratejs.js"
+  },
+  "scripts": {
+    "lint": "eslint lib/ test/"
+  },
+  "author": "xuxihai123",
+  "license": "MIT",
+  "keywords": [
+    "small nodejs migrate  database framework"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuxihai123/nodejs-migrate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xuxihai123/nodejs-migrate/issues"
+  },
+  "homepage": "https://github.com/xuxihai123/nodejs-migrate#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.19.0",
+    "dateformat": "^3.0.3",
+    "mkdirp": "^0.5.1",
+    "slug": "^0.9.2"
+  },
+  "engines": {
+    "node": ">=8"
+  }
+}

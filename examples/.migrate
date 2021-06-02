@@ -1,0 +1,25 @@
+{
+  "lastRun": null,
+  "migrations": [
+    {
+      "title": "1622605053406-task-one.js",
+      "timestamp": null
+    },
+    {
+      "title": "1622605122918-task-two.js",
+      "timestamp": null
+    },
+    {
+      "title": "1622605126185-task-three.js",
+      "timestamp": null
+    },
+    {
+      "title": "1622605129821-task-four.js",
+      "timestamp": null
+    },
+    {
+      "title": "1622605133073-task-five.js",
+      "timestamp": null
+    }
+  ]
+}
